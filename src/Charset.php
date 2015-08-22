@@ -309,6 +309,7 @@ class Charset implements CharsetManager
         'cp1258' => 'windows-1258',
         'x-gbk' => 'gbk',
         'windows-936' => 'gbk',
+        'cp936' => 'gbk', /*this is for chinese character use in hotmail*/
         'ansi-1251' => 'windows-1251'
     );
 
